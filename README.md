@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trippycode21 (Mohammad Sahib Shad Jan)
+- 👋 Hi, I’m @Code420~ (Mohammad Sahib Shad Jan)
 - 👀 I’m interested in projects building personal projects for students and application working 
 - 🌱 I’m currently learning js,php,react,angular,scss many more :)
 - 💞️ I’m looking to collaborate on web apps and mobile applications 
